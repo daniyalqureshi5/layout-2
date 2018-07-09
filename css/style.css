@@ -1,0 +1,150 @@
+h1,h2,h3,h4,h5,h6,p{
+	margin: 0;
+}
+.logo{
+	margin-top: 50px;
+}
+.monthly{
+	margin-top: 50px;
+}
+.monthly h1{
+	font-size:25px;
+	padding-bottom: 16px;
+	color: #576379;
+}
+.monthly p{
+	color: #6f778a;
+	font-size: 19px;
+}
+.newage{
+	background-color: #566376;
+	margin-top: 24px;
+}
+.newage h1{
+	font-size: 17px;
+	color: white;
+	padding: 8px 0 8px 10px;
+}
+.ticket{
+	margin-top: 8px;
+	padding: 16px 14px 14px 14px;
+	border: 2px solid #d5d8dd;
+}
+.ticket img{
+	padding-right: 12px;
+	float: left;
+}
+.ticket h1{
+	color: #993a94;
+	font-weight: bold;
+	padding-top: 17px;
+	font-size: 15px;
+}
+.ticket p{
+	font-size: 12px;
+	color: #575759;
+}
+.bag {
+	border: 2px solid #d5d8dd;
+	margin-top: 8px;
+	padding: 8px 10px 11px 13px;
+}
+.bag img{
+	padding-right: 12px;
+	float: left;
+}
+.bag h1{
+	color: #993a94;
+	font-weight: bold;
+	padding-top: 17px;
+	font-size: 15px;
+}
+.bag p{
+	font-size: 12px;
+	color: #575759;
+}
+.in-house{
+	background-color: #566376;
+	margin-top: 24px;
+}
+.in-house h1{
+	margin-bottom: 15px;
+	font-size: 17px;
+	color: white;
+	padding: 8px 0 8px 10px;
+}
+.sales{
+	margin-bottom: 28px;
+	border: 2px solid #aab1bb;
+	padding: 20px 0 20px 25px;
+}
+.sales img{
+	float: left;
+	margin-right: 25px;
+}
+.sales h1{
+	padding-top: 5px;
+	font-size: 22px;
+	color: #566637;
+	font-weight: bold;
+}
+.prepaid{
+	border: 2px solid #aab1bb;
+	padding: 25px 0 40px 25px;
+}
+.prepaid img{
+	float: left;
+	margin-right: 25px;
+}
+.prepaid h1{
+	padding-top: 5px;
+	font-size: 22px;
+	color: #47b0e0;
+	font-weight: bold;
+}
+.alert{
+	border: 2px solid #aab1bb;
+	padding: 21px 0 27px 21px;
+}
+.alert img{
+	float: left;
+	margin-right: 46px;
+}
+.alert h1{
+	font-size: 22px;
+	padding-top: 20px;
+	font-weight: bold;
+	color: #1ba9ab;
+}
+.up-sells{
+	margin-bottom: 32px;
+	border: 2px solid #aab1bb;
+	padding: 5px 0 5px 24px ;
+}
+.up-sells img{
+	float: left;
+	margin-right: 29px;
+
+}
+.up-sells h1{
+	font-size: 18px;
+	color: #1852a3;
+	font-weight: bold;
+	padding-top: 13px;
+}
+.up-sells p{
+	font-size: 18px;
+	color: #58575c;
+	font-weight: bold;
+	padding-top: 7px;
+}
+footer{
+	background-color: #566376;
+}
+footer h1{
+	text-align: center;
+	font-size: 23px;
+	padding-top: 30px;
+	color: white;
+	padding-bottom: 21px;
+}
